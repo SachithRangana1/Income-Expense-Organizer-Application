@@ -1,11 +1,11 @@
 # Income-Expense Organizer Application
 
 <p align="center">
-  <img src="/UI/frontend/src/assets/1.png" alt="App Screenshot" width="600">
-  <img src="/UI/frontend/src/assets/2.png" alt="App Screenshot" width="600">
-  <img src="/UI/frontend/src/assets/3.png" alt="App Screenshot" width="600">
-  <img src="/UI/frontend/src/assets/4.png" alt="App Screenshot" width="600">
-  <img src="/UI/frontend/src/assets/5.png" alt="App Screenshot" width="600">
+  <img src="/UI/src/assets/1.png" alt="App Screenshot" width="600">
+  <img src="/UI/src/assets/2.png" alt="App Screenshot" width="600">
+  <img src="/UI/src/assets/3.png" alt="App Screenshot" width="600">
+  <img src="/UI/src/assets/4.png" alt="App Screenshot" width="600">
+  <img src="/UI/src/assets/5.png" alt="App Screenshot" width="600">
 
 </p>
 
