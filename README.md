@@ -1,6 +1,13 @@
 # Income-Expense Organizer Application
-![Screenshot from 2024-11-04 15-20-41](https://github.com/user-attachments/assets/da1c6bc9-493e-4a4b-ad84-145c89a8b97b)
 
+<p align="center">
+  <img src="/UI/frontend/src/assets/1.png" alt="App Screenshot" width="600">
+  <img src="/UI/frontend/src/assets/2.png" alt="App Screenshot" width="600">
+  <img src="/UI/frontend/src/assets/3.png" alt="App Screenshot" width="600">
+  <img src="/UI/frontend/src/assets/4.png" alt="App Screenshot" width="600">
+  <img src="/UI/frontend/src/assets/5.png" alt="App Screenshot" width="600">
+
+</p>
 
 The Income-Expense Organizer Application is a powerful financial management tool designed to help users efficiently track their income, expenses, and overall financial health. Built with Spring Boot and MySQL, the application provides a seamless and user-friendly experience for managing personal and business finances.
 
